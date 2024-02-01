@@ -1,0 +1,40 @@
+@media (max-width:376px){
+    header{
+        background-color: rgb(17, 146, 155);
+       }
+       header h3{
+        color: black !important;
+       }
+    
+       .container{
+          padding: 0;
+       }
+       h3{
+          color: aqua;
+       }
+       #first-box h3{
+          font-size: 30px;
+          padding-top: 0;
+          padding-left: 0;
+       }
+       #about{
+        width: 100%;
+       }
+       .container{
+        width: 100%;
+       }
+       /* #about .row{
+        margin: 0 0;
+       }
+       #about .col-md-5{
+        padding: 0 0;
+       }
+       .about-sec .row{
+        margin: 0 0;
+       } */
+
+       .row{
+        margin: 0 0;
+       }
+      
+}

@@ -1,0 +1,866 @@
+@media (min-width:200px) and (max-width:376px){
+   .row{
+      margin: 0 0;
+     }
+   header{
+    background-color: rgb(17, 146, 155);
+   }
+   header h3{
+    color: black !important;
+   }
+
+   .container{
+      padding-top: 30px;
+
+   }
+   h3{
+      color: aqua;
+   }
+   #first-box h3{
+      font-size: 35px;
+      padding-top: 0;
+      padding-left: 0;
+   }
+   #first-box p{
+      font-size: 14px;
+      padding-left: 0;
+   }
+   .navbar-brand i{
+      color: brown !important;
+   }
+   .aboutus-imgbox img{
+      width: 50%;
+   }
+   #about{
+      width: 100%;
+   }
+   .about-sec{
+      width: 70%;
+   }
+   .about_txt{
+      padding-left: 40px;
+      
+   }
+   .about_txt p{
+      font-size: 16px;
+      margin-right: 20px;
+
+   }
+   .about_txt h2{
+      font-size: 25px;
+   }
+   .about_txt h5{
+      font-size: 15px;
+
+      
+   }
+   .about_txt h4{
+      font-size: 21px;
+
+      
+   }
+   .about-sec{
+      width: 100%;
+   }
+   .about-sec h2{
+      font-size: 25px;
+      padding: 0 20px;
+   }
+   .about_box{
+      width: 80%;
+      margin: auto;
+      margin-bottom: 30px;
+
+   }
+   .why_sec{
+      margin: 0 30px;
+   }
+   .why_sec h5{
+      font-size: 15px;
+
+   }
+   .why_sec h2{
+      font-size: 25px;
+
+   }
+   .why_sec p{
+      font-size: 15px;
+
+   }
+
+   .why_box{
+      background-color: rgb(227, 231, 238);
+      margin-bottom: 30px;
+   }
+   
+   .why_img_box{
+      width: 96% !important;
+   }
+
+   .emp{
+      height: 620px;
+      margin-bottom: 30px !important;
+   }
+   .emp-layer{
+      height: 620px;
+   }
+   
+   .employe{
+      /* margin-: 0 20px; */
+      width: 100%;
+      padding-top: 15px !important;
+   }
+   
+   .num_count_main_box{
+      /* margin-left: 50; */
+      width: 50%;
+      margin: auto;
+
+   }
+   .testi-text p{
+      font-size: 15px;
+   }
+   .testi-text h3{
+      font-size: 25px;
+      margin-bottom: 30px;
+   }
+   .slide_cntnr{
+      height: 500px;
+   }
+   .carousel-indicators{
+      top: 0;
+   }
+   .carousel-indicators li{
+      width: 2px !important;
+      height: 10px !important;
+      margin: 0 !important;
+   }
+   .timg-box{
+      width: 30%;
+   }
+   .img-sidetext{
+      /* background-color: aqua; */
+      width: 100% !important;
+      height: 50px !important;
+      padding-right: 30px;
+      text-align: center;
+   }
+   #myCarousel{
+      /* height: 50% !important; */
+      /*  */
+   }
+   .carousel-inner{
+      height: 440px;
+      padding-left: 30px;
+      /* background-color: brown; */
+   }
+   .img-sidetext p{
+      font-size: 16px;
+   }
+   .img-sidetext h4{
+      font-size: 14px;
+   }
+   .img-sidetext h6{
+      font-size: 18px;
+   }
+   #recent-article h6{
+      padding-top: 30px;
+      font-size: 16px;
+
+   }
+   #recent-article h3{
+      font-size: 27px;
+      color: rgb(98, 42, 189);
+   }
+   #recent-article{
+      /* margin: 0 20px; */
+   }
+   .article_box{
+      margin-bottom: 30px;
+   }
+   #fresh-idea{
+      text-align: center;
+   }
+   #fresh-idea h3{
+      font-size: 20px;
+   }
+   #fresh-idea button{
+      margin-top: 30px;
+   }
+   #footer{
+      text-align: center;
+   }
+   .input-group{
+      justify-content: center;
+   }
+   .f-p p{
+      margin-bottom: 0;
+   }
+   .f-p p{
+      font-size: 14px;
+   }
+   #fresh-idea h3{
+      font-size: 17px;
+   }
+   #fresh-idea h2{
+      font-size: 30px;
+   }
+   .phone-no a{
+      font-size: 20px;
+   }
+   .phone-no i{
+      font-size: 20px;
+   }
+   
+}
+
+/* ------------------------------------------------------------------------------- */
+
+@media (min-width:376px) and (max-width: 479px) {
+   .row{
+      margin: 0 0;
+     }
+   header{
+    background-color: rgb(17, 146, 155);
+   }
+   header h3{
+    color: black !important;
+   }
+
+   .container{
+      padding-top: 30px;
+
+   }
+   h3{
+      color: aqua;
+   }
+   #first-box h3{
+      font-size: 45px;
+      padding-top: 0;
+      padding-left: 0;
+   }
+   #first-box p{
+      font-size: 17px;
+      padding-left: 0;
+   }
+   .navbar-brand i{
+      color: brown !important;
+   }
+   .aboutus-imgbox img{
+      width: 50%;
+   }
+   #about{
+      width: 100%;
+   }
+   .about-sec{
+      width: 70%;
+   }
+   .about_txt{
+      padding-left: 40px;
+      
+   }
+   .about_txt p{
+      font-size: 16px;
+      margin-right: 20px;
+
+   }
+   .about_txt h2{
+      font-size: 25px;
+   }
+   .about_txt h5{
+      font-size: 15px;
+
+      
+   }
+   .about_txt h4{
+      font-size: 21px;
+
+      
+   }
+   .about-sec{
+      width: 100%;
+   }
+   .about-sec h2{
+      font-size: 25px;
+      padding: 0 20px;
+   }
+   .about_box{
+      width: 80%;
+      margin: auto;
+      margin-bottom: 30px;
+
+   }
+   .why_sec{
+      margin: 0 30px;
+   }
+   .why_sec h5{
+      font-size: 15px;
+
+   }
+   .why_sec h2{
+      font-size: 25px;
+
+   }
+   .why_sec p{
+      font-size: 15px;
+
+   }
+
+   .why_box{
+      background-color: rgb(227, 231, 238);
+      margin-bottom: 30px;
+   }
+   
+   .why_img_box{
+      width: 96% !important;
+   }
+
+   .emp{
+      height: 620px;
+      margin-bottom: 30px !important;
+   }
+   .emp-layer{
+      height: 620px;
+   }
+   
+   .employe{
+      /* margin-: 0 20px; */
+      width: 100%;
+      padding-top: 15px !important;
+   }
+   
+   .num_count_main_box{
+      /* margin-left: 50; */
+      width: 50%;
+      margin: auto;
+
+   }
+   .testi-text p{
+      font-size: 15px;
+   }
+   .testi-text h3{
+      font-size: 25px;
+      margin-bottom: 30px;
+   }
+   .slide_cntnr{
+      height: 500px;
+   }
+   .carousel-indicators{
+      top: 0;
+   }
+   .carousel-indicators li{
+      width: 2px !important;
+      height: 10px !important;
+      margin: 0 !important;
+   }
+   .timg-box{
+      width: 30%;
+   }
+   .img-sidetext{
+      /* background-color: aqua; */
+      width: 100% !important;
+      height: 50px !important;
+      padding-right: 30px;
+      text-align: center;
+   }
+   #myCarousel{
+      /* height: 50% !important; */
+      /*  */
+   }
+   .carousel-inner{
+      height: 440px;
+      padding-left: 30px;
+      /* background-color: brown; */
+   }
+   .img-sidetext p{
+      font-size: 16px;
+   }
+   .img-sidetext h4{
+      font-size: 14px;
+   }
+   .img-sidetext h6{
+      font-size: 18px;
+   }
+   #recent-article h6{
+      padding-top: 30px;
+      font-size: 16px;
+
+   }
+   #recent-article h3{
+      font-size: 27px;
+      color: rgb(98, 42, 189);
+   }
+   #recent-article{
+      /* margin: 0 20px; */
+   }
+   .article_box{
+      margin-bottom: 30px;
+   }
+   #fresh-idea{
+      text-align: center;
+   }
+   #fresh-idea h3{
+      font-size: 20px;
+   }
+   #fresh-idea button{
+      margin-top: 30px;
+   }
+   #footer{
+      text-align: center;
+   }
+   .input-group{
+      justify-content: center;
+   }
+   .f-p p{
+      margin-bottom: 0;
+   }
+   .f-p p{
+      font-size: 14px;
+   }
+   #fresh-idea h3{
+      font-size: 17px;
+   }
+   #fresh-idea h2{
+      font-size: 30px;
+   }
+   .phone-no a{
+      font-size: 20px;
+   }
+   .phone-no i{
+      font-size: 20px;
+   }
+}
+
+/* ------------------------------------------------------------------------------- */
+@media (min-width: 479px) and (max-width:579px){
+   .row{
+      margin: 0 0;
+     }
+   header{
+    background-color: rgb(17, 146, 155);
+   }
+   header h3{
+    color: black !important;
+   }
+
+   .container{
+      padding-top: 60px;
+
+   }
+   h3{
+      color: aqua;
+   }
+   #first-box h3{
+      font-size: 43px;
+      padding-top: 0;
+      padding-left: 0;
+   }
+   #first-box p{
+      font-size: 17px;
+      padding-left: 0;
+   }
+   .navbar-brand i{
+      color: brown !important;
+   }
+   .aboutus-imgbox img{
+      width: 100%;
+   }
+   #about{
+      width: 100%;
+   }
+   .about-sec{
+      width: 70%;
+   }
+   .about_txt{
+      padding-left: 40px;
+      
+   }
+   .about_txt p{
+      font-size: 16px;
+      margin-right: 20px;
+
+   }
+   .about_txt h2{
+      font-size: 25px;
+   }
+   .about_txt h5{
+      font-size: 15px;
+
+      
+   }
+   .about_txt h4{
+      font-size: 21px;
+
+      
+   }
+   .about-sec{
+      width: 100%;
+   }
+   .about-sec h2{
+      font-size: 25px;
+      padding: 0 20px;
+   }
+   .about_box{
+      width: 80%;
+      margin: auto;
+      margin-bottom: 30px;
+
+   }
+   .why_sec{
+      margin: 0 30px;
+   }
+   .why_sec h5{
+      font-size: 15px;
+
+   }
+   .why_sec h2{
+      font-size: 25px;
+
+   }
+   .why_sec p{
+      font-size: 15px;
+
+   }
+
+   .why_box{
+      background-color: rgb(227, 231, 238);
+      margin-bottom: 30px;
+   }
+   .why_img_box{
+      width: 96% !important;
+   }
+
+   .emp{
+      height: 620px;
+      margin-bottom: 30px !important;
+   }
+   .emp-layer{
+      height: 620px;
+   }
+   
+   .employe{
+      /* margin-: 0 20px; */
+      width: 100%;
+      padding-top: 15px !important;
+   }
+   
+   .num_count_main_box{
+      /* margin-left: 50; */
+      width: 50%;
+      margin: auto;
+
+   }
+   .testi-text p{
+      font-size: 15px;
+   }
+   .testi-text h3{
+      font-size: 25px;
+      margin-bottom: 30px;
+   }
+   .slide_cntnr{
+      height: 600px;
+   }
+   .carousel-indicators{
+      top: 0;
+   }
+   .carousel-indicators li{
+      width: 2px !important;
+      height: 10px !important;
+      margin: 0 !important;
+   }
+   .timg-box{
+      width: 30%;
+   }
+   .img-sidetext{
+      /* background-color: aqua; */
+      width: 100% !important;
+      height: 50px !important;
+      padding-right: 30px;
+      text-align: center;
+   }
+   #myCarousel{
+      /* height: 50% !important; */
+      /*  */
+   }
+   .carousel-inner{
+      height: 440px;
+      padding-left: 30px;
+      /* background-color: brown; */
+   }
+   .img-sidetext p{
+      font-size: 16px;
+   }
+   .img-sidetext h4{
+      font-size: 14px;
+   }
+   .img-sidetext h6{
+      font-size: 18px;
+   }
+   #recent-article h6{
+      padding-top: 30px;
+      font-size: 16px;
+
+   }
+   #recent-article h3{
+      font-size: 27px;
+      color: rgb(98, 42, 189);
+   }
+   #recent-article .container{
+      padding-top: 0;
+   }
+   .article_box{
+      margin-bottom: 30px;
+   }
+   #fresh-idea{
+      text-align: center;
+   }
+   #fresh-idea h3{
+      font-size: 20px;
+   }
+   #fresh-idea button{
+      margin-top: 30px;
+   }
+   #footer{
+      text-align: center;
+   }
+   .input-group{
+      justify-content: center;
+   }
+   .f-p p{
+      margin-bottom: 0;
+   }
+   .f-p p{
+      font-size: 14px;
+   }
+   #fresh-idea h3{
+      font-size: 17px;
+   }
+   #fresh-idea h2{
+      font-size: 30px;
+   }
+   .phone-no a{
+      font-size: 20px;
+   }
+   .phone-no i{
+      font-size: 20px;
+   }
+}
+/* ------------------------------------------------------------------------------- */
+@media (min-width:579px) and (max-width:768px){
+   
+   .row{
+      margin: 0 0;
+     }
+   header{
+    background-color: rgb(17, 146, 155);
+   }
+   header h3{
+    color: black !important;
+   }
+
+   .container{
+      max-width: 100%;
+      padding-top: 60px;
+
+   }
+   h3{
+      color: aqua;
+   }
+   #first-box h3{
+      font-size: 65px;
+      padding-top: 0;
+      padding-left: 0;
+   }
+   #first-box p{
+      font-size: 19px;
+      padding-left: 0;
+   }
+   .navbar-brand i{
+      color: brown !important;
+   }
+   .aboutus-imgbox img{
+      width: 100%;
+   }
+   #about{
+      width: 100%;
+   }
+   .about-sec{
+      width: 70%;
+   }
+   .about_txt{
+      padding-left: 40px;
+      
+   }
+   .about_txt p{
+      font-size: 16px;
+      margin-right: 20px;
+
+   }
+   .about_txt h2{
+      font-size: 25px;
+   }
+   .about_txt h5{
+      font-size: 15px;
+
+      
+   }
+   .about_txt h4{
+      font-size: 21px;
+
+      
+   }
+   .about-sec{
+      width: 100%;
+   }
+   .about-sec h2{
+      font-size: 25px;
+      padding: 0 20px;
+   }
+   .about_box{
+      width: 80%;
+      margin: auto;
+      margin-bottom: 30px;
+
+   }
+   .why_sec{
+      margin: 0 30px;
+   }
+   .why_sec h5{
+      font-size: 15px;
+
+   }
+   .why_sec h2{
+      font-size: 25px;
+
+   }
+   .why_sec p{
+      font-size: 15px;
+
+   }
+
+   .why_box{
+      background-color: rgb(227, 231, 238);
+      margin-bottom: 30px;
+   }
+   .why_img_box{
+      width: 96% !important;
+   }
+
+   .emp{
+      height: 620px;
+      margin-bottom: 30px !important;
+   }
+   .emp-layer{
+      height: 620px;
+   }
+   
+   .employe{
+      /* margin-: 0 20px; */
+      width: 100%;
+      padding-top: 15px !important;
+   }
+   
+   .num_count_main_box{
+      /* margin-left: 50; */
+      width: 50%;
+      margin: auto;
+
+   }
+   .testi-text p{
+      font-size: 15px;
+   }
+   .testi-text h3{
+      font-size: 25px;
+      margin-bottom: 30px;
+   }
+   .slide_cntnr{
+      height: 600px;
+   }
+   .carousel-indicators{
+      top: 0;
+   }
+   .carousel-indicators li{
+      width: 2px !important;
+      height: 10px !important;
+      margin: 0 !important;
+   }
+   .timg-box{
+      width: 30%;
+   }
+   .img-sidetext{
+      /* background-color: aqua; */
+      width: 100% !important;
+      height: 50px !important;
+      padding-right: 30px;
+      text-align: center;
+   }
+   #myCarousel{
+      /* height: 50% !important; */
+      /*  */
+   }
+   .carousel-inner{
+      height: 440px;
+      padding-left: 30px;
+      /* background-color: brown; */
+   }
+   .img-sidetext p{
+      font-size: 16px;
+   }
+   .img-sidetext h4{
+      font-size: 14px;
+   }
+   .img-sidetext h6{
+      font-size: 18px;
+   }
+   #recent-article h6{
+      padding-top: 30px;
+      font-size: 16px;
+
+   }
+   #recent-article h3{
+      font-size: 27px;
+      color: rgb(98, 42, 189);
+   }
+   #recent-article .container{
+      padding-top: 0;
+   }
+   .article_box{
+      margin-bottom: 30px;
+   }
+   #fresh-idea{
+      text-align: center;
+   }
+   #fresh-idea h3{
+      font-size: 20px;
+   }
+   #fresh-idea button{
+      margin-top: 30px;
+   }
+   #footer{
+      text-align: center;
+   }
+   .input-group{
+      justify-content: center;
+   }
+   .f-p p{
+      margin-bottom: 0;
+   }
+   .f-p p{
+      font-size: 14px;
+   }
+   #fresh-idea h3{
+      font-size: 17px;
+   }
+   #fresh-idea h2{
+      font-size: 30px;
+   }
+   .phone-no a{
+      font-size: 20px;
+   }
+   .phone-no i{
+      font-size: 20px;
+   }
+   .num_count_main_box{
+      padding-left: 15%;
+   }
+}
